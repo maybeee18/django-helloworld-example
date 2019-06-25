@@ -14,13 +14,12 @@ git clone https://github.com/words-sdsc/django-helloworld-example.git
 cd django-helloworld-example
 ```
 
-```
 
 Build and run Docker image
 
-``
+```
 docker-compose up
-``
+```
 
 You should now be able to go to
 
